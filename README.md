@@ -20,3 +20,10 @@ Production-level cusstomer-churn.
 
 ---
 
+---
+
+### Day 3 - Final Polish, Slicer Architecture & Executive Deliverables
+- [x] Converted filters into uniform dropdown slicers for `Paperless Billing` and `Senior Citizen`.
+- [x] Standardized executive card containers, drop shadows, and soft background contrast.
+- [x] Realigned KPI layout and renamed reporting canvas to **Churn Overview**.
+- [x] Exported presentation-ready executive PDF and committed final `.pbix` dashboard model.
