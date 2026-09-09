@@ -27,3 +27,8 @@ Production-level cusstomer-churn.
 - [x] Standardized executive card containers, drop shadows, and soft background contrast.
 - [x] Realigned KPI layout and renamed reporting canvas to **Churn Overview**.
 - [x] Exported presentation-ready executive PDF and committed final `.pbix` dashboard model.
+
+---
+
+## 📊 Executive Dashboard Preview
+![Customer Retention & Churn Analysis](Dashboard%20preview.png)
